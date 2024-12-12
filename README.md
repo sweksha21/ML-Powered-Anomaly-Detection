@@ -1,1 +1,1 @@
-# ML-Powered-Anomaly-Detection
+Developed an ML-powered network anomaly detection system leveraging supervised learning algorithms (KNN, Logistic Regression, and SVM) to enhance cybersecurity by identifying point anomalies effectively
